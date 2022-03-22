@@ -20,7 +20,7 @@ Project is created with:
 
 ## Setup
 To run this project, run:
-```/MergeSort/Release/MergeSort.exe```
+```/Merge Sort/Release/Merge Sort.exe```
 
 ## Control
 - `Esc` - Back
